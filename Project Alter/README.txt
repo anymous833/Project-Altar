@@ -1,1 +1,1 @@
-﻿This is a Java project.
+﻿test
